@@ -26,6 +26,7 @@ p img {
     border-radius: 30px 30px;
     border: 2px solid black;
     padding: 2px;
+    align-items: center;
 }
 main p {
     font-size: 20px;
